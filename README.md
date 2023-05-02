@@ -1,6 +1,6 @@
 # Deep Learning - Function Approximation
 
-[中文筆記](https://hackmd.io/@GoldBaby/B1mTsx9Xn)
+[中文筆記](https://hackmd.io/@GoldBaby/B1mTsx9Xn)  
 [Kaggle](https://www.kaggle.com/competitions/function-approximation/)
 
 ## Problem Description
